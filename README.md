@@ -2,7 +2,7 @@
 
 The primary (and the only source of the code) is mixup-2.ipynb jupyter notebook in the repo.
 
-There is Net class in the notebook which implements mixup training on a dataset of your choice (suitable for at least CIFAR-10 and MNIST), using resnet18 or wide_resnet50_2 architectures from pytorch.
+There is Net class in the notebook which implements mixup training on a dataset of your choice (suitable for at least CIFAR-10 and MNIST), using resnet18 or wide_resnet50_2 architectures from pytorch. The mixup implementation is based on this article https://arxiv.org/abs/1905.11001.
 
 Methods of the class include 'mixup' and 'mixup_criterion' (implementation of mixup itself and evaluation of model's prediction respectively), 'train' and 'test' (which are just train and test loops) and 'predict' for single sample prediction.
 
