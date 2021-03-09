@@ -1,4 +1,4 @@
-# Deep Learning project on mixup training.
+# Deep Learning project on mixup training (Team C-3).
 
 The primary (and the only source of the code) is mixup-2.ipynb jupyter notebook in the repo.
 
