@@ -1,5 +1,4 @@
-# project_AP
-Deep learning project on mixup training.
+# Deep Learning project on mixup training.
 
 The primary (and the only source of the code) is mixup-2.ipynb jupyter notebook in the repo.
 
